@@ -36,3 +36,12 @@ a.menu-logo {
   color: #fff;
   font-size: 1.125em;
 }
+
+/* menu responsível*/
+
+@media(max-width: 739px) {
+  .menu-nav {
+    float: none;
+    clear: both;
+  }
+}
