@@ -24,3 +24,10 @@
   font-style: italic;
   font-size: 1.125em;
 }
+
+/* Introdução responsiva */
+@media(max-width: 739px) {
+  .intro {
+    padding: 60px 0;
+  }
+}
