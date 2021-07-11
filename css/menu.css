@@ -37,8 +37,6 @@ a.menu-logo {
   font-size: 1.125em;
 }
 
-/* menu responsível*/
-
 @media(max-width: 739px) {
   .menu {
     text-align: center;
